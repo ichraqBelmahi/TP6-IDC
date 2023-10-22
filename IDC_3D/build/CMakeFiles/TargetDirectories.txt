@@ -1,0 +1,11 @@
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/build/CMakeFiles/tp_bin.dir
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/build/CMakeFiles/edit_cache.dir
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/build/CMakeFiles/rebuild_cache.dir
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/build/glad/CMakeFiles/glad.dir
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/build/glad/CMakeFiles/edit_cache.dir
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/build/glad/CMakeFiles/rebuild_cache.dir
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/build/glfw/CMakeFiles/edit_cache.dir
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/build/glfw/CMakeFiles/rebuild_cache.dir
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/build/glfw/src/CMakeFiles/glfw.dir
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/build/glfw/src/CMakeFiles/edit_cache.dir
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/build/glfw/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+# Target labels
+ glfw-download
+# Source files and their labels
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/libigl/external/.cache/glfw/CMakeFiles/glfw-download
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/libigl/external/.cache/glfw/CMakeFiles/glfw-download.rule
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/libigl/external/.cache/glfw/CMakeFiles/glfw-download-complete.rule
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/libigl/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-build.rule
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/libigl/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-configure.rule
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/libigl/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-download.rule
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/libigl/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-install.rule
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/libigl/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-mkdir.rule
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/libigl/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-patch.rule
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/libigl/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-test.rule
+/Users/mac/Downloads/Master-master/M2/s9/HAI918I_Image/IDC_3D/libigl/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-update.rule
